@@ -74,6 +74,4 @@ export class Product {
     static getInstance() {
         return new Product(true)
     }
-
-
 }
